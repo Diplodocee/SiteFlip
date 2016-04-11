@@ -31,3 +31,12 @@ body {
   color: #FFFFFF;
   text-decoration: bold;
 }
+
+.col-md-4 {
+  text-align: center;
+  background-color: #FFFFFF;
+  color: #a51417;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: 2px solid #a51417;
+}
