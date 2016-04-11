@@ -12,10 +12,10 @@ body {
 }
 
 .navbar-default {
-  float:center;
+  left: 25%;
   text-align: center;
   width: 50%;
   background-color: #a51417;
-  color: #fff;
+  color: #FFFFFF;
   text-decoration: bold;
 }
