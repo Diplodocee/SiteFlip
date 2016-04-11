@@ -1,3 +1,17 @@
 body {
   background-color: #a51417;
 }
+
+.page-header {
+  text-align: center;
+  width: 80%;
+  background-color: #f3f5e0;
+  color: #a51417;
+}
+
+.navbar-header {
+  text-align: center;
+  width: 80%;
+  background-color: #a51417;
+  color: #f3f5e0;
+}
