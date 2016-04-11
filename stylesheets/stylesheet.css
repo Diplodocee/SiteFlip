@@ -1,5 +1,5 @@
 body {
-  background-color: #a51417;
+  background-color: #307c55;
 }
 
 .page-header {
@@ -11,10 +11,10 @@ body {
   color: #a51417;
 }
 
-.container-fluid {
+.navbar-default {
   float:center;
   text-align: center;
   width: 50%;
-  background-color: #307c55;
+  background-color: #a51417;
   color: #f3f5e0;
 }
