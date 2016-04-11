@@ -5,13 +5,16 @@ body {
 .page-header {
   text-align: center;
   width: 80%;
+  height: 10%;
+  float: center;
   background-color: #f3f5e0;
   color: #a51417;
 }
 
 .container-fluid {
+  float:center;
   text-align: center;
   width: 50%;
-  background-color: #a51417;
+  background-color: #307c55;
   color: #f3f5e0;
 }
