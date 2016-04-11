@@ -43,3 +43,8 @@ body {
 .col-md-4 h2{
   text-align: center;
 }
+
+.col-md-4 a{
+  padding-left: 30px;
+  color: #a51417;
+}
