@@ -32,7 +32,12 @@ body {
   text-decoration: bold;
 }
 
+.container {
+  width: 95%;
+}
+
 .col-md-4 {
+  text-align: center;
   background-color: #f3f5e0;
   color: #a51417;
   padding-top: 20px;
@@ -40,9 +45,6 @@ body {
   border: 2px solid #a51417;
 }
 
-.col-md-4 h2{
-  text-align: center;
-}
 
 .col-md-4 a{
   padding-left: 50px;
