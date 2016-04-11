@@ -23,7 +23,11 @@ body {
   text-decoration: bold;
 }
 
-.dropdown a {
+.dropdown {
+  color: #FFFFFF;
+  text-decoration: bold;
+}
+.dropdown a{
   color: #FFFFFF;
   text-decoration: bold;
 }
