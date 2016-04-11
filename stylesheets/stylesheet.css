@@ -33,7 +33,7 @@ body {
 }
 
 .container {
-  width: 95%;
+  width: 80%;
 }
 
 .col-md-4 {
@@ -49,4 +49,8 @@ body {
 .col-md-4 a{
   padding-left: 50px;
   color: #a51417;
+}
+
+.row {
+  margin-top: 20px;
 }
