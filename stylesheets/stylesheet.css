@@ -46,11 +46,19 @@ body {
 }
 
 
-.col-md-4 a{
-  padding-left: 50px;
+.col-md-4 a{;
   color: #a51417;
 }
 
 .row {
   margin-top: 20px;
+}
+
+.col-md-8 {
+  text-align: center;
+  background-color: #f3f5e0;
+  color: #a51417;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: 2px solid #a51417;
 }
